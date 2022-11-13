@@ -1,0 +1,66 @@
+
+body{
+    
+    font-size: small;
+    background-color: rgb(43, 43, 43);
+    min-height: 100%;
+    
+}
+
+.container{
+    min-height: 100vh;
+}
+
+.bienvenue{
+    font-size:xx-large;
+    font-weight: 200;
+    color: white;
+}
+
+.id{
+    color: white;
+}
+
+.bi-person-fill{
+    color: white;
+}
+
+.bi-lock-fill{
+    color: white;
+}
+
+.footer-message{
+    color: white;
+}
+
+.invalidData{
+padding-top: 10px;
+}
+
+.err{
+    color:red;
+    padding-top: 10px;
+}
+
+.hide{
+    display: none;
+}
+
+.bienvenida{
+    font-size: x-large;
+    font-weight: 200;
+}
+
+.saldo{
+    font-size: x-large;
+    font-weight: 200;
+}
+.dataSaludo{
+    color: white;
+    font-size: x-large;
+}
+
+.Ops{
+    font-size: x-large;
+    font-weight: 300;
+}
